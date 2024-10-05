@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<session>
+    <action>
+        <user>vasya</user>
+        <time>2024-10-05 10:09:58</time>
+        <command>cd ./vfs</command>
+    </action>
+    <action>
+        <user>vasya</user>
+        <time>2024-10-05 10:09:58</time>
+        <command>tree</command>
+    </action>
+    <action>
+        <user>vasya</user>
+        <time>2024-10-05 10:10:09</time>
+        <command>ls</command>
+    </action>
+    <action>
+        <user>vasya</user>
+        <time>2024-10-05 10:10:14</time>
+        <command>cat SMERT.txt</command>
+    </action>
+    <action>
+        <user>vasya</user>
+        <time>2024-10-05 10:10:19</time>
+        <command>cd dir</command>
+    </action>
+    <action>
+        <user>vasya</user>
+        <time>2024-10-05 10:10:21</time>
+        <command>ls</command>
+    </action>
+    <action>
+        <user>vasya</user>
+        <time>2024-10-05 10:10:30</time>
+        <command>rmdir empty</command>
+    </action>
+    <action>
+        <user>vasya</user>
+        <time>2024-10-05 10:10:31</time>
+        <command>ls</command>
+    </action>
+    <action>
+        <user>vasya</user>
+        <time>2024-10-05 10:10:34</time>
+        <command>cf empty</command>
+    </action>
+    <action>
+        <user>vasya</user>
+        <time>2024-10-05 10:10:39</time>
+        <command>cd empty</command>
+    </action>
+    <action>
+        <user>vasya</user>
+        <time>2024-10-05 10:10:41</time>
+        <command>ls</command>
+    </action>
+    <action>
+        <user>vasya</user>
+        <time>2024-10-05 10:10:45</time>
+        <command>cd vfs</command>
+    </action>
+    <action>
+        <user>vasya</user>
+        <time>2024-10-05 10:10:50</time>
+        <command>exit</command>
+    </action>
+</session>
